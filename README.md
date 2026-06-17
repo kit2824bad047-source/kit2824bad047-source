@@ -1,12 +1,16 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gokul%20V&fontSize=60&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=65&descAlign=50&fontColor=ffffff)](https://github.com/kit2824bad047-source)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://github.com/kit2824bad047-source)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gokul%20V&fontSize=60&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=65&descAlign=50&fontColor=ffffff" width="100%" alt="Header"/>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://github.com/kit2824bad047-source)
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kit2824bad047-source&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/kit2824bad047-source)
 [![GitHub followers](https://img.shields.io/github/followers/kit2824bad047-source?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)](https://github.com/kit2824bad047-source?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/kit2824bad047-source?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)](https://github.com/kit2824bad047-source)
+[![GitHub stars](https://img.shields.io/github/stars/kit2824bad047-source?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)](https://github.com/kit2824bad047-source)
+
+</div>
 
 ---
 
@@ -17,10 +21,10 @@ const gokul = {
   pronouns: "he" | "him",
   code: ["Python", "JavaScript", "Java", "C/C++", "HTML", "CSS"],
   tools: ["React", "Node.js", "MongoDB", "SQL", "Git"],
-  architecture: ["Full Stack Web", "REST APIs", "Machine Learning Pipelines"],
+  architecture: ["Full Stack Web", "REST APIs", "ML Pipelines"],
   currentFocus: "AI & Data Science + Full Stack Development",
-  funFact: "I turn data into insights and ideas into applications! 📊→🚀",
-  passion: "Building intelligent solutions that solve real-world problems",
+  funFact: "I turn data into insights and ideas into apps! 📊→🚀",
+  passion: "Building intelligent solutions for real-world problems",
   motto: "Learn with purpose, build with passion"
 };
 ```
@@ -85,20 +89,24 @@ A comprehensive full-stack web project built with modern JavaScript technologies
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kit2824bad047-source&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF&border_color=00D9FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kit2824bad047-source&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kit2824bad047-source&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kit2824bad047-source&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kit2824bad047-source&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kit2824bad047-source&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
+<div align="center">
+
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kit2824bad047-source&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/kit2824bad047-source)
+
+</div>
 
 ---
 
@@ -128,6 +136,8 @@ A comprehensive full-stack web project built with modern JavaScript technologies
 
 ---
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/kit2824bad047-source)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
 
 **⭐ From [kit2824bad047-source](https://github.com/kit2824bad047-source)**
+</div>
