@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gokul%20V&fontSize=60&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=65&descAlign=50&fontColor=ffffff" />
+# 👋 Hi, I'm Gokul V
 
-</div>
+### 🎓 AI & Data Science Student | 💻 Full Stack Developer | 🤖 ML Enthusiast
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://github.com/kit2824bad047-source)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +20,7 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 ```javascript
 const gokul = {
@@ -98,12 +96,12 @@ A comprehensive full-stack web project built with modern JavaScript technologies
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kit2824bad047-source&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kit2824bad047-source&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kit2824bad047-source&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Gokul's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kit2824bad047-source&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kit2824bad047-source&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF"/>
+  <img src="https://streak-stats.demolab.com/?user=kit2824bad047-source&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -120,32 +118,33 @@ A comprehensive full-stack web project built with modern JavaScript technologies
 
 ## 🎯 Current Focus
 
-![Focusing](https://img.shields.io/badge/Status-Focusing-00D9FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)
+![Focusing](https://img.shields.io/badge/Status-Focusing-00D9FF?style=for-the-badge&logo=target&logoColor=000000&labelColor=000000)
 
-**Currently working on:** AI & Data Science projects + Full Stack Development
-
-**Learning:** Machine Learning, Deep Learning & Data Analysis
-
-**Next Goal:** Build impactful open-source AI/ML projects
+- 🔭 **Currently working on:** AI & Data Science + Full Stack Development
+- 🌱 **Learning:** Machine Learning, Deep Learning & Data Analysis
+- 🎯 **Next Goal:** Build impactful open-source AI/ML projects
 
 ---
 
 ## 🤝 Let's Connect!
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kit2824bad047-source)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-v-164989328/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit28.24bad047@gmail.com)
 
----
-
-### 💡 Fun Fact
-
-*"The best way to predict the future is to build it with AI!"* 🚀
+</div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+### 💡 Fun Fact
+*"The best way to predict the future is to build it with AI!"* 🚀
+
+<br/>
 
 **⭐ From [kit2824bad047-source](https://github.com/kit2824bad047-source)**
+
 </div>
