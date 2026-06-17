@@ -63,8 +63,8 @@ const gokul = {
 <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
 <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" title="GitHub"/>
 <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux"/>
-<img src="https://img.icons8.com/doodle/48/jupyter.png" title="Jupyter"/>
-<img src="https://img.icons8.com/color/48/postman-api.png" title="Postman"/>
+<img src="https://img.icons8.com/doodle/48/jupyter.png"/>
+<img src="https://img.icons8.com/color/48/postman-api.png"/>
 
 </div>
 
