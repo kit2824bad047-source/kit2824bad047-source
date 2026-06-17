@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](header.png)
+![Header](![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=2000&color=A855F7&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B+I'm+Gokul+V))
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 
