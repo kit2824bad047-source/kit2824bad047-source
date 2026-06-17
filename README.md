@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Gokul V
-
-### 🎓 AI & Data Science Student | 💻 Full Stack Developer | 🤖 ML Enthusiast
+![Header](header.png)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 
@@ -118,8 +116,6 @@ A comprehensive full-stack web project built with modern JavaScript technologies
 
 ## 🎯 Current Focus
 
-![Focusing](https://img.shields.io/badge/Status-Focusing-00D9FF?style=for-the-badge&logo=target&logoColor=000000&labelColor=000000)
-
 - 🔭 **Currently working on:** AI & Data Science + Full Stack Development
 - 🌱 **Learning:** Machine Learning, Deep Learning & Data Analysis
 - 🎯 **Next Goal:** Build impactful open-source AI/ML projects
@@ -140,10 +136,7 @@ A comprehensive full-stack web project built with modern JavaScript technologies
 
 <div align="center">
 
-### 💡 Fun Fact
 *"The best way to predict the future is to build it with AI!"* 🚀
-
-<br/>
 
 **⭐ From [kit2824bad047-source](https://github.com/kit2824bad047-source)**
 
