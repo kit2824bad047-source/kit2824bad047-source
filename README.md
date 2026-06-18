@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kit2824bad047-source/kit2824bad047-source/main/banner.svg" width="100%" alt="Header Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gokul%20V&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20Developer%20%7C%20Competitive%20Programming&descAlignY=58&descAlign=50&descSize=22" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 
@@ -158,3 +158,5 @@ A comprehensive full-stack web project built with modern JavaScript technologies
 **⭐ From [kit2824bad047-source](https://github.com/kit2824bad047-source)**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
