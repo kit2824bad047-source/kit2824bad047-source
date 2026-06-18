@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kit2824bad047-source/kit2824bad047-source/main/banner.gif" width="100%" alt="Gokul V Banner"/>
+<img src="https://raw.githubusercontent.com/kit2824bad047-source/kit2824bad047-source/main/banner (1).gif" width="100%" alt="Gokul V Banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 
