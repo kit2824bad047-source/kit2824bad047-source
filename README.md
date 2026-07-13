@@ -240,7 +240,7 @@ const gokul = {
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kit2824bad047-source&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10)](https://github.com/kit2824bad047-source)
+[![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=kit2824bad047-source&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10)](https://github.com/kit2824bad047-source)
 
 </div>
 
