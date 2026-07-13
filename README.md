@@ -53,7 +53,6 @@ const gokul: Developer = {
 
 ## 🎓 Education
 
-[#-education](#-education)
 
 | Degree                                        | Institution                                                    | Duration    | CGPA          |
 | ---------------------------------------------- | ---------------------------------------------------------------- | ----------- | ------------- |
@@ -65,7 +64,6 @@ const gokul: Developer = {
 
 ## 💼 Experience
 
-[#-experience](#-experience)
 
 ### 💻 FullStack Development Intern — Cognifyz Technologies *(Online)*
 **Jan 2026 – Feb 2026**
@@ -88,8 +86,6 @@ const gokul: Developer = {
 ---
 
 ## 🛠️ Tech Stack
-
-[#️-tech-stack](#️-tech-stack)
 
 ### ⚡ Languages
 
@@ -134,8 +130,6 @@ const gokul: Developer = {
 
 ## 💻 Competitive Programming Stats
 
-[#-competitive-programming-stats](#-competitive-programming-stats)
-
 | Platform          | Max Rating | Problems Solved | Notes                     |
 | ------------------ | ---------- | ---------------- | -------------------------- |
 | 🟡 **[LeetCode](https://leetcode.com/u/kit28ada047/)**   | **1482**   | **322**  | 1 badge earned              |
@@ -153,7 +147,6 @@ const gokul: Developer = {
 
 ## 🚀 Featured Projects
 
-[#-featured-projects](#-featured-projects)
 
 ### 🎓 Campus Placement and Recruitment Management System
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -182,7 +175,6 @@ const gokul: Developer = {
 
 ## 🏆 Achievements & Certifications
 
-[#-achievements--certifications](#-achievements--certifications)
 
 | Type                          | Details                                                                                                                                                  |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -195,7 +187,6 @@ const gokul: Developer = {
 
 ## 📊 GitHub Stats
 
-[#-github-stats](#-github-stats)
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kit2824bad047-source&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Gokul's GitHub Stats"/>
@@ -210,8 +201,6 @@ const gokul: Developer = {
 
 ## 🐍 Contribution Snake
 
-[#-contribution-snake](#-contribution-snake)
-
 ![Snake animation](https://raw.githubusercontent.com/kit2824bad047-source/kit2824bad047-source/output/github-snake.svg)
 
 > ℹ️ Renders once you set up the [github-contribution-grid-snake](https://github.com/Platane/snk) GitHub Action on your `kit2824bad047-source/kit2824bad047-source` repo.
@@ -220,7 +209,6 @@ const gokul: Developer = {
 
 ## 🏅 GitHub Trophies
 
-[#-github-trophies](#-github-trophies)
 
 <div align="center">
 
@@ -232,7 +220,6 @@ const gokul: Developer = {
 
 ## 🎯 What I'm Working On
 
-[#-what-im-working-on](#-what-im-working-on)
 
 | Area           | Focus                                                                     |
 | --------------- | -------------------------------------------------------------------------- |
@@ -246,7 +233,6 @@ const gokul: Developer = {
 
 ## 🤝 Let's Connect
 
-[#-lets-connect](#-lets-connect)
 
 *I'm always open to exciting opportunities, open-source collaborations, hackathons, internships, and tech discussions.*
 
