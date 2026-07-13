@@ -230,8 +230,6 @@ const gokul = {
 
 ## 🐍 Contribution Snake
 
-[#-contribution-snake](#-contribution-snake)
-
 ![Snake animation](https://raw.githubusercontent.com/kit2824bad047-source/kit2824bad047-source/output/github-snake.svg)
 
 > ℹ️ Renders once you set up the [github-contribution-grid-snake](https://github.com/Platane/snk) GitHub Action on your `kit2824bad047-source/kit2824bad047-source` repo.
