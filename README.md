@@ -26,6 +26,9 @@
 [#-about-me](#-about-me)
 
 ```javascript
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kit2824bad047-source/kit2824bad047-source/main/about-me.png" width="850"/>
+</div>
 const gokul: Developer = {
   name:          "Gokul V",
   role:          "AI & Full Stack Developer",
