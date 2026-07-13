@@ -142,14 +142,14 @@ const gokul = {
 
 [#-competitive-programming-stats--live](#-competitive-programming-stats--live)
 
-*These badges fetch live data straight from each platform's public profile. They refresh automatically the next time your GitHub profile is loaded — no manual editing after you solve a new problem.*
+*Clean platform badges — click any of them to view live activity on that platform's own profile page.*
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DGokul_v&query=%24.result%5B0%5D.rating&label=Codeforces&color=1F8ACB&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gokul_v)
-[![CodeChef](https://cp-logo.vercel.app/codechef/kit28ada047?logo=true)](https://www.codechef.com/users/kit28ada047)
-[![AtCoder](https://img.shields.io/badge/AtCoder-Not%20Rated%20Yet-808080?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/GokulV)
-[![LeetCode](https://cp-logo.vercel.app/leetcode/kit28ada047?logo=true)](https://leetcode.com/u/kit28ada047/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gokul_v)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28ada047)
+[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/GokulV)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/kit28ada047/)
 
 </div>
 
