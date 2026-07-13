@@ -25,9 +25,20 @@
 
 [#-about-me](#-about-me)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kit2824bad047-source/kit2824bad047-source/main/about-me.png" width="850"/>
-</div>
+```javascript
+const gokul: Developer = {
+  name:          "Gokul V",
+  role:          "AI & Full Stack Developer",
+  education:     "B.Tech Artificial Intelligence & Data Science @ KIT — Kalaignarkarunanidhi Institute of Technology",
+  year:          "3rd Year | CGPA: 8.44 / 10",
+  experience:    "FullStack Dev Intern @ Cognifyz Technologies | FullStack Dev Intern @ Edufyi Tech Solutions | AI Intern @ Appin Technology",
+  solved:        "300+ DSA Problems | 85+ Contests",
+  stack:         ["MongoDB", "Express", "React", "Node.js", "Flask"],
+  currentFocus:  ["Machine Learning", "Deep Learning", "Data Analysis"],
+  languages:     ["Tamil", "English"],
+  motto:         "Learn with purpose, build with passion."
+};
+```
 
 - 🎓 **3rd Year Artificial Intelligence & Data Science student** at KIT, Coimbatore — **CGPA: 8.44 / 10**
 - 💼 **Completed internships** at **Cognifyz Technologies**, **Edufyi Tech Solutions**, and **Appin Technology**
