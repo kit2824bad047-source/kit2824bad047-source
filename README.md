@@ -34,7 +34,7 @@
 ```javascript
 const gokul = {
   pronouns:      "he" | "him",
-  location:      "Tiruppur, India",
+  location:      "Coimbatore, India",
   education:     "B.Tech AI & Data Science @ KIT - Kalaignarkarunanidhi Institute of Technology",
   year:          "3rd Year | CGPA: 8.44 / 10",
   code:          ["Python", "JavaScript", "Java", "C/C++", "HTML", "CSS"],
@@ -138,22 +138,32 @@ const gokul = {
 
 ---
 
-## 💻 Competitive Programming Stats
+## 💻 Competitive Programming Stats — Live
 
-[#-competitive-programming-stats](#-competitive-programming-stats)
+[#-competitive-programming-stats--live](#-competitive-programming-stats--live)
 
-| Platform          | Max Rating | Problems Solved | Notes                     |
-| ------------------ | ---------- | ---------------- | -------------------------- |
-| 🟡 **[LeetCode](https://leetcode.com/u/kit28ada047/)**   | **1482**   | **322**  | 1 badge earned              |
-| 🟤 **[CodeChef](https://www.codechef.com/users/kit28ada047)**   | **1277**   | **670**  | 3 badges · Global Rank 68576 |
-| 🔵 **[Codeforces](https://codeforces.com/profile/Gokul_v)** | **768**    | **25+**  | —                            |
-| 🟢 **[AtCoder](https://atcoder.jp/users/GokulV)**     | —          | —        | —                            |
+*These badges fetch live data straight from each platform's public profile. They refresh automatically the next time your GitHub profile is loaded — no manual editing after you solve a new problem.*
+
+<div align="center">
+
+[![Codeforces](https://cp-logo.vercel.app/codeforces/Gokul_v?logo=true)](https://codeforces.com/profile/Gokul_v)
+[![CodeChef](https://cp-logo.vercel.app/codechef/kit28ada047?logo=true)](https://www.codechef.com/users/kit28ada047)
+[![AtCoder](https://cp-logo.vercel.app/atcoder/GokulV?logo=true)](https://atcoder.jp/users/GokulV)
+[![LeetCode](https://cp-logo.vercel.app/leetcode/kit28ada047?logo=true)](https://leetcode.com/u/kit28ada047/)
+
+</div>
 
 **Overall:** 300+ DSA problems solved · Participated in 85+ competitive programming contests
 
-### 🟡 LeetCode Live Stats
+[![View Full Stats on Codolio](https://img.shields.io/badge/Codolio-View%20Full%20Stats-6C5CE7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+)](https://codolio.com/profile/kit28ada047)
+
+### 🟡 LeetCode Live Card
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/kit28ada047?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10)](https://leetcode.com/u/kit28ada047/)
+
+### 🔵 Codeforces Live Card
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Gokul_v)](https://codeforces.com/profile/Gokul_v)
 
 ---
 
