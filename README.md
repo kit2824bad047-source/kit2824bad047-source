@@ -146,16 +146,16 @@ const gokul = {
 
 <div align="center">
 
-[![Codeforces](https://cp-logo.vercel.app/codeforces/Gokul_v?logo=true)](https://codeforces.com/profile/Gokul_v)
+[![Codeforces](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DGokul_v&query=%24.result%5B0%5D.rating&label=Codeforces&color=1F8ACB&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gokul_v)
 [![CodeChef](https://cp-logo.vercel.app/codechef/kit28ada047?logo=true)](https://www.codechef.com/users/kit28ada047)
-[![AtCoder](https://cp-logo.vercel.app/atcoder/GokulV?logo=true)](https://atcoder.jp/users/GokulV)
+[![AtCoder](https://img.shields.io/badge/AtCoder-Not%20Rated%20Yet-808080?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/GokulV)
 [![LeetCode](https://cp-logo.vercel.app/leetcode/kit28ada047?logo=true)](https://leetcode.com/u/kit28ada047/)
 
 </div>
 
 **Overall:** 300+ DSA problems solved · Participated in 85+ competitive programming contests
 
-[![View Full Stats on Codolio](https://img.shields.io/badge/Codolio-View%20Full%20Stats-6C5CE7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+)](https://codolio.com/profile/kit28ada047)
+[![View Full Stats on Codolio](https://img.shields.io/badge/Codolio-View%20Full%20Stats-6C5CE7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+)](YOUR_CODOLIO_PROFILE_LINK)
 
 ### 🟡 LeetCode Live Card
 
