@@ -25,32 +25,19 @@
 
 [#-about-me](#-about-me)
 
-```javascript
 <div align="center">
   <img src="https://raw.githubusercontent.com/kit2824bad047-source/kit2824bad047-source/main/about-me.png" width="850"/>
 </div>
-const gokul: Developer = {
-  name:          "Gokul V",
-  role:          "AI & Full Stack Developer",
-  education:     "B.Tech Artificial Intelligence & Data Science @ KIT — Kalaignarkarunanidhi Institute of Technology",
-  year:          "3rd Year | CGPA: 8.44 / 10",
-  experience:    "FullStack Dev Intern @ Cognifyz Technologies | FullStack Dev Intern @ Edufyi Tech Solutions | AI Intern @ Appin Technology",
-  solved:        "300+ DSA Problems | 85+ Contests",
-  stack:         ["MongoDB", "Express", "React", "Node.js", "Flask"],
-  currentFocus:  ["Machine Learning", "Deep Learning", "Data Analysis"],
-  languages:     ["Tamil", "English"],
-  motto:         "Learn with purpose, build with passion."
-};
-```
 
-🎓 3rd Year Artificial Intelligence & Data Science student at KIT, Coimbatore — CGPA: 8.44 / 10
-💼 Completed internships at Cognifyz Technologies, Edufyi Tech Solutions, and Appin Technology
-🧩 300+ DSA problems solved, participated in 85+ competitive programming contests
-🌐 Passionate about building fast, clean, scalable AI-powered web applications
-🤖 Currently exploring Machine Learning, Deep Learning, and Data Analysis
-🏆 Multiple hackathon wins — CLONE-X (2nd), Web Wizards (1st), CodeXtreme (14th)
-🗣️ Languages: Tamil · English
-📫 Reach me at kit28.24bad047@gmail.com
+- 🎓 **3rd Year Artificial Intelligence & Data Science student** at KIT, Coimbatore — **CGPA: 8.44 / 10**
+- 💼 **Completed internships** at **Cognifyz Technologies**, **Edufyi Tech Solutions**, and **Appin Technology**
+- 🧩 **300+ DSA problems solved**, participated in **85+ competitive programming contests**
+- 🌐 Passionate about building fast, clean, scalable AI-powered web applications
+- 🤖 Currently exploring **Machine Learning**, **Deep Learning**, and **Data Analysis**
+- 🏆 **Multiple hackathon wins** — CLONE-X (2nd), Web Wizards (1st), CodeXtreme (14th)
+- 🗣️ Languages: **Tamil** · **English**
+- 📫 Reach me at **kit28.24bad047@gmail.com**
+
 ---
 
 ## 🎓 Education
