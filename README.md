@@ -29,7 +29,6 @@
 
 ## 🧑‍💻 About Me
 
-[#-about-me](#-about-me)
 
 ```javascript
 const gokul = {
@@ -59,8 +58,6 @@ const gokul = {
 
 ## 🎓 Education
 
-[#-education](#-education)
-
 | Degree                                        | Institution                                                    | Duration    | CGPA          |
 | ---------------------------------------------- | ---------------------------------------------------------------- | ----------- | ------------- |
 | B.Tech Artificial Intelligence & Data Science | KIT — Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024 – 2028 | **8.44 / 10** |
@@ -70,8 +67,6 @@ const gokul = {
 ---
 
 ## 💼 Experience
-
-[#-experience](#-experience)
 
 ### 💻 FullStack Development Intern — Cognifyz Technologies *(Online)*
 **Jan 2026 – Feb 2026**
@@ -95,7 +90,6 @@ const gokul = {
 
 ## 🛠️ Tech Stack
 
-[#️-tech-stack](#️-tech-stack)
 
 ### ⚡ Languages
 
@@ -140,8 +134,6 @@ const gokul = {
 
 ## 💻 Competitive Programming Stats — Live
 
-[#-competitive-programming-stats--live](#-competitive-programming-stats--live)
-
 *Clean platform badges — click any of them to view live activity on that platform's own profile page.*
 
 <div align="center">
@@ -173,8 +165,6 @@ const gokul = {
 
 ## 🚀 Featured Projects
 
-[#-featured-projects](#-featured-projects)
-
 ### 🎓 Campus Placement and Recruitment Management System
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
@@ -202,8 +192,6 @@ const gokul = {
 
 ## 🏆 Achievements & Certifications
 
-[#-achievements--certifications](#-achievements--certifications)
-
 | Type                          | Details                                                                                                                                                  |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🥇 **Hackathons**              | 🏆 2nd Place — CLONE-X Hackathon · 🥇 1st Place — Web Wizards · 14th Place — CodeXtreme 24-Hour Hackathon (KIT) · Participant — IEEE CS SYP 24-Hour Full Stack Hackathon (KPR Institute) |
@@ -214,8 +202,6 @@ const gokul = {
 ---
 
 ## 📊 GitHub Stats
-
-[#-github-stats](#-github-stats)
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kit2824bad047-source&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Gokul's GitHub Stats"/>
@@ -246,8 +232,6 @@ const gokul = {
 
 ## 🎯 What I'm Working On
 
-[#-what-im-working-on](#-what-im-working-on)
-
 | Area           | Focus                                                                     |
 | --------------- | -------------------------------------------------------------------------- |
 | 🔨 Building     | AI-powered & Full Stack (MERN) applications                                |
@@ -259,8 +243,6 @@ const gokul = {
 ---
 
 ## 🤝 Let's Connect
-
-[#-lets-connect](#-lets-connect)
 
 *I'm always open to exciting opportunities, open-source collaborations, hackathons, internships, and tech discussions.*
 
