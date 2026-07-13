@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-[#-about-me](#-about-me)
+
 
 ```javascript
 const gokul: Developer = {
