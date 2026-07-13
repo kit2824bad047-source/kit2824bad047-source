@@ -16,12 +16,12 @@
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1qhDYydb8CX-9MUP5L8J3cCb-4WiOzoIF/view?usp=sharing)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kit2824bad047-source&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/kit2824bad047-source)
-![Open To Work](https://img.shields.io/badge/Open%20To-Work-success?style=flat)
 ![CGPA](https://img.shields.io/badge/CGPA-8.44%2F10-blue?style=flat)
 ![Year](https://img.shields.io/badge/3rd%20Year-2024--2028-orange?style=flat)
 ![Location](https://img.shields.io/badge/📍-Coimbatore%2C%20India-informational?style=flat)
-![Internships](https://img.shields.io/badge/Internships-3%20Completed-success?style=flat)
 ![Problems Solved](https://img.shields.io/badge/DSA-300%2B%20Solved-brightgreen?style=flat)
+![Internships](https://img.shields.io/badge/Internships-3%20Completed-success?style=flat)
+![Open To Work](https://img.shields.io/badge/Open%20To-Work-success?style=flat)
 
 </div>
 
