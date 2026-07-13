@@ -19,7 +19,7 @@
 ![Open To Work](https://img.shields.io/badge/Open%20To-Work-success?style=flat)
 ![CGPA](https://img.shields.io/badge/CGPA-8.44%2F10-blue?style=flat)
 ![Year](https://img.shields.io/badge/3rd%20Year-2024--2028-orange?style=flat)
-![Location](https://img.shields.io/badge/📍-Tiruppur%2C%20India-informational?style=flat)
+![Location](https://img.shields.io/badge/📍-Coimbatore%2C%20India-informational?style=flat)
 ![Internships](https://img.shields.io/badge/Internships-3%20Completed-success?style=flat)
 ![Problems Solved](https://img.shields.io/badge/DSA-300%2B%20Solved-brightgreen?style=flat)
 
