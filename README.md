@@ -13,9 +13,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kit2824bad047-source)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-v-164989328)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit28.24bad047@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1qhDYydb8CX-9MUP5L8J3cCb-4WiOzoIF/view?usp=sharing)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kit2824bad047-source&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/kit2824bad047-source)
 ![Open To Work](https://img.shields.io/badge/Open%20To-Work-success?style=flat)
+![CGPA](https://img.shields.io/badge/CGPA-8.44%2F10-blue?style=flat)
+![Year](https://img.shields.io/badge/3rd%20Year-2024--2028-orange?style=flat)
+![Location](https://img.shields.io/badge/📍-Tiruppur%2C%20India-informational?style=flat)
+![Internships](https://img.shields.io/badge/Internships-3%20Completed-success?style=flat)
+![Problems Solved](https://img.shields.io/badge/DSA-300%2B%20Solved-brightgreen?style=flat)
 
 </div>
 
@@ -23,36 +29,37 @@
 
 ## 🧑‍💻 About Me
 
-
+[#-about-me](#-about-me)
 
 ```javascript
-const gokul: Developer = {
-  name:          "Gokul V",
-  role:          "AI & Full Stack Developer",
-  education:     "B.Tech Artificial Intelligence & Data Science @ KIT — Kalaignarkarunanidhi Institute of Technology",
+const gokul = {
+  pronouns:      "he" | "him",
+  location:      "Tiruppur, India",
+  education:     "B.Tech AI & Data Science @ KIT - Kalaignarkarunanidhi Institute of Technology",
   year:          "3rd Year | CGPA: 8.44 / 10",
-  experience:    "FullStack Dev Intern @ Cognifyz Technologies | FullStack Dev Intern @ Edufyi Tech Solutions | AI Intern @ Appin Technology",
-  solved:        "300+ DSA Problems | 85+ Contests",
-  stack:         ["MongoDB", "Express", "React", "Node.js", "Flask"],
-  currentFocus:  ["Machine Learning", "Deep Learning", "Data Analysis"],
-  languages:     ["Tamil", "English"],
-  motto:         "Learn with purpose, build with passion."
+  code:          ["Python", "JavaScript", "Java", "C/C++", "HTML", "CSS"],
+  tools:         ["React", "Node.js", "MongoDB", "SQL", "Git", "Power BI"],
+  architecture:  ["Full Stack Web", "REST APIs", "ML Pipelines"],
+  currentFocus:  "AI & Data Science + Full Stack Development",
+  learning:      ["Machine Learning", "Deep Learning", "Data Analysis"],
+  funFact:       "I turn data into insights and ideas into apps! 📊→🚀",
+  passion:       "Building intelligent solutions for real-world problems",
+  motto:         "Learn with purpose, build with passion"
 };
 ```
 
-- 🎓 **3rd Year Artificial Intelligence & Data Science student** at KIT, Coimbatore — **CGPA: 8.44 / 10**
+- 🎓 **3rd Year B.Tech AI & Data Science student** at KIT, Coimbatore — **CGPA: 8.44 / 10**
 - 💼 **Completed internships** at **Cognifyz Technologies**, **Edufyi Tech Solutions**, and **Appin Technology**
 - 🧩 **300+ DSA problems solved**, participated in **85+ competitive programming contests**
-- 🌐 Passionate about building fast, clean, scalable AI-powered web applications
-- 🤖 Currently exploring **Machine Learning**, **Deep Learning**, and **Data Analysis**
-- 🏆 **Multiple hackathon wins** — CLONE-X (2nd), Web Wizards (1st), CodeXtreme (14th)
-- 🗣️ Languages: **Tamil** · **English**
+- 🌐 Practicing across **LeetCode, CodeChef, Codeforces & AtCoder**
+- 🏆 **Multiple hackathon wins** — see Achievements below
 - 📫 Reach me at **kit28.24bad047@gmail.com**
 
 ---
 
 ## 🎓 Education
 
+[#-education](#-education)
 
 | Degree                                        | Institution                                                    | Duration    | CGPA          |
 | ---------------------------------------------- | ---------------------------------------------------------------- | ----------- | ------------- |
@@ -64,6 +71,7 @@ const gokul: Developer = {
 
 ## 💼 Experience
 
+[#-experience](#-experience)
 
 ### 💻 FullStack Development Intern — Cognifyz Technologies *(Online)*
 **Jan 2026 – Feb 2026**
@@ -86,6 +94,8 @@ const gokul: Developer = {
 ---
 
 ## 🛠️ Tech Stack
+
+[#️-tech-stack](#️-tech-stack)
 
 ### ⚡ Languages
 
@@ -130,6 +140,8 @@ const gokul: Developer = {
 
 ## 💻 Competitive Programming Stats
 
+[#-competitive-programming-stats](#-competitive-programming-stats)
+
 | Platform          | Max Rating | Problems Solved | Notes                     |
 | ------------------ | ---------- | ---------------- | -------------------------- |
 | 🟡 **[LeetCode](https://leetcode.com/u/kit28ada047/)**   | **1482**   | **322**  | 1 badge earned              |
@@ -147,6 +159,7 @@ const gokul: Developer = {
 
 ## 🚀 Featured Projects
 
+[#-featured-projects](#-featured-projects)
 
 ### 🎓 Campus Placement and Recruitment Management System
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -175,6 +188,7 @@ const gokul: Developer = {
 
 ## 🏆 Achievements & Certifications
 
+[#-achievements--certifications](#-achievements--certifications)
 
 | Type                          | Details                                                                                                                                                  |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -187,6 +201,7 @@ const gokul: Developer = {
 
 ## 📊 GitHub Stats
 
+[#-github-stats](#-github-stats)
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kit2824bad047-source&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Gokul's GitHub Stats"/>
@@ -201,6 +216,8 @@ const gokul: Developer = {
 
 ## 🐍 Contribution Snake
 
+[#-contribution-snake](#-contribution-snake)
+
 ![Snake animation](https://raw.githubusercontent.com/kit2824bad047-source/kit2824bad047-source/output/github-snake.svg)
 
 > ℹ️ Renders once you set up the [github-contribution-grid-snake](https://github.com/Platane/snk) GitHub Action on your `kit2824bad047-source/kit2824bad047-source` repo.
@@ -209,6 +226,7 @@ const gokul: Developer = {
 
 ## 🏅 GitHub Trophies
 
+[#-github-trophies](#-github-trophies)
 
 <div align="center">
 
@@ -220,6 +238,7 @@ const gokul: Developer = {
 
 ## 🎯 What I'm Working On
 
+[#-what-im-working-on](#-what-im-working-on)
 
 | Area           | Focus                                                                     |
 | --------------- | -------------------------------------------------------------------------- |
@@ -233,6 +252,7 @@ const gokul: Developer = {
 
 ## 🤝 Let's Connect
 
+[#-lets-connect](#-lets-connect)
 
 *I'm always open to exciting opportunities, open-source collaborations, hackathons, internships, and tech discussions.*
 
