@@ -26,19 +26,17 @@
 [#-about-me](#-about-me)
 
 ```javascript
-const gokul = {
-  pronouns:      "he" | "him",
-  location:      "Tiruppur, India",
-  education:     "B.Tech AI & Data Science @ KIT - Kalaignarkarunanidhi Institute of Technology",
+const gokul: Developer = {
+  name:          "Gokul V",
+  role:          "AI & Full Stack Developer",
+  education:     "B.Tech Artificial Intelligence & Data Science @ KIT — Kalaignarkarunanidhi Institute of Technology",
   year:          "3rd Year | CGPA: 8.44 / 10",
-  code:          ["Python", "JavaScript", "Java", "C/C++", "HTML", "CSS"],
-  tools:         ["React", "Node.js", "MongoDB", "SQL", "Git", "Power BI"],
-  architecture:  ["Full Stack Web", "REST APIs", "ML Pipelines"],
-  currentFocus:  "AI & Data Science + Full Stack Development",
-  learning:      ["Machine Learning", "Deep Learning", "Data Analysis"],
-  funFact:       "I turn data into insights and ideas into apps! 📊→🚀",
-  passion:       "Building intelligent solutions for real-world problems",
-  motto:         "Learn with purpose, build with passion"
+  experience:    "FullStack Dev Intern @ Cognifyz Technologies | FullStack Dev Intern @ Edufyi Tech Solutions | AI Intern @ Appin Technology",
+  solved:        "300+ DSA Problems | 85+ Contests",
+  stack:         ["MongoDB", "Express", "React", "Node.js", "Flask"],
+  currentFocus:  ["Machine Learning", "Deep Learning", "Data Analysis"],
+  languages:     ["Tamil", "English"],
+  motto:         "Learn with purpose, build with passion."
 };
 ```
 
