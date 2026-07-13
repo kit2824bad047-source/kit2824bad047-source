@@ -15,7 +15,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit28.24bad047@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kit2824bad047-source&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/kit2824bad047-source)
-![Location](https://img.shields.io/badge/Location-Coimbatore%2C%20?style=flat)
 ![Open To Work](https://img.shields.io/badge/Open%20To-Opportunities-success?style=flat)
 
 </div>
