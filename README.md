@@ -155,7 +155,11 @@ const gokul = {
 
 **Overall:** 300+ DSA problems solved · Participated in 85+ competitive programming contests
 
-[![View Full Stats on Codolio](https://img.shields.io/badge/Codolio-View%20Full%20Stats-6C5CE7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+)](YOUR_CODOLIO_PROFILE_LINK)
+<div align="center">
+
+[![Codolio](https://img.shields.io/badge/Codolio-View%20Full%20CP%20Profile-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white)](https://codolio.com/profile/kit28ada047)
+
+</div>
 
 ### 🟡 LeetCode Live Card
 
