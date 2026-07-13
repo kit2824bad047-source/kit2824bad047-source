@@ -40,13 +40,14 @@ const gokul: Developer = {
 };
 ```
 
-- 🎓 **3rd Year B.Tech AI & Data Science student** at KIT, Coimbatore — **CGPA: 8.44 / 10**
-- 💼 **Completed internships** at **Cognifyz Technologies**, **Edufyi Tech Solutions**, and **Appin Technology**
-- 🧩 **300+ DSA problems solved**, participated in **85+ competitive programming contests**
-- 🌐 Practicing across **LeetCode, CodeChef, Codeforces & AtCoder**
-- 🏆 **Multiple hackathon wins** — see Achievements below
-- 📫 Reach me at **kit28.24bad047@gmail.com**
-
+🎓 3rd Year Artificial Intelligence & Data Science student at KIT, Coimbatore — CGPA: 8.44 / 10
+💼 Completed internships at Cognifyz Technologies, Edufyi Tech Solutions, and Appin Technology
+🧩 300+ DSA problems solved, participated in 85+ competitive programming contests
+🌐 Passionate about building fast, clean, scalable AI-powered web applications
+🤖 Currently exploring Machine Learning, Deep Learning, and Data Analysis
+🏆 Multiple hackathon wins — CLONE-X (2nd), Web Wizards (1st), CodeXtreme (14th)
+🗣️ Languages: Tamil · English
+📫 Reach me at kit28.24bad047@gmail.com
 ---
 
 ## 🎓 Education
