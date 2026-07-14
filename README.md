@@ -157,24 +157,28 @@ const gokul = {
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/kit28ada047?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10)](https://leetcode.com/u/kit28ada047/)
 
-### 🔵 Codeforces & 🟤 CodeChef Live Cards
+### 🔵 Codeforces Live Card & 🟤 CodeChef Rating
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="60%" align="center">
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Gokul_v)](https://codeforces.com/profile/Gokul_v)
 
 </td>
-<td width="50%" align="center">
+<td width="40%" align="center">
 
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/kit28ada047?v=1)](https://www.codechef.com/users/kit28ada047)
+<br/>
+
+[![CodeChef](https://cp-logo.vercel.app/codechef/kit28ada047?logo=true)](https://www.codechef.com/users/kit28ada047)
+
+<br/><br/>
+
+*Live rating badge — updates automatically as your CodeChef rating changes*
 
 </td>
 </tr>
 </table>
-
-> ℹ️ The CodeChef card runs on a free-tier server that sleeps when idle — first load after a while may take 10-20 seconds to wake up. It updates live once loaded.
 
 ---
 
