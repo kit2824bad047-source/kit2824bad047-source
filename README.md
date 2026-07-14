@@ -176,15 +176,12 @@ const gokul = {
 
 *Live rating badge — updates automatically as your CodeChef rating changes*
 
-<br/><br/>
-
-[![View Full Rating Graph on Codolio](https://img.shields.io/badge/View%20Full%20Rating%20Graph-Codolio-6C5CE7?style=flat-square&logo=rocket&logoColor=white)](YOUR_CODOLIO_PROFILE_LINK)
-
 </td>
 </tr>
 </table>
 
 ---
+
 ## 🚀 Featured Projects
 
 ### 🎓 Campus Placement and Recruitment Management System
@@ -226,8 +223,8 @@ const gokul = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kit2824bad047-source&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Gokul's GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kit2824bad047-source&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats-mu-ecru.vercel.app/api?username=kit2824bad047-source&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Gokul's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-mu-ecru.vercel.app/api/top-langs/?username=kit2824bad047-source&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
 </div>
 
 <div align="center">
