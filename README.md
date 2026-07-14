@@ -174,6 +174,10 @@ const gokul = {
 
 <br/><br/>
 
+[![CodeChef Rating Graph](https://codechef-api.vercel.app/handle/kit28ada047/ratingGraph)](https://www.codechef.com/users/kit28ada047)
+
+<br/><br/>
+
 *Live rating badge — updates automatically as your CodeChef rating changes*
 
 </td>
@@ -181,7 +185,6 @@ const gokul = {
 </table>
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🎓 Campus Placement and Recruitment Management System
