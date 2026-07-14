@@ -16,19 +16,18 @@
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1qhDYydb8CX-9MUP5L8J3cCb-4WiOzoIF/view?usp=sharing)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kit2824bad047-source&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/kit2824bad047-source)
+![Open To Work](https://img.shields.io/badge/Open%20To-Work-success?style=flat)
 ![CGPA](https://img.shields.io/badge/CGPA-8.44%2F10-blue?style=flat)
 ![Year](https://img.shields.io/badge/3rd%20Year-2024--2028-orange?style=flat)
 ![Location](https://img.shields.io/badge/📍-Coimbatore%2C%20India-informational?style=flat)
-![Problems Solved](https://img.shields.io/badge/DSA-300%2B%20Solved-brightgreen?style=flat)
 ![Internships](https://img.shields.io/badge/Internships-3%20Completed-success?style=flat)
-![Open To Work](https://img.shields.io/badge/Open%20To-Work-success?style=flat)
+![Problems Solved](https://img.shields.io/badge/DSA-300%2B%20Solved-brightgreen?style=flat)
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-
 
 ```javascript
 const gokul = {
@@ -90,6 +89,7 @@ const gokul = {
 
 ## 🛠️ Tech Stack
 
+[#️-tech-stack](#️-tech-stack)
 
 ### ⚡ Languages
 
@@ -138,10 +138,10 @@ const gokul = {
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/kit28ada047/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28ada047)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gokul_v)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28ada047)
 [![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/GokulV)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/kit28ada047/)
 
 </div>
 
@@ -149,7 +149,7 @@ const gokul = {
 
 <div align="center">
 
-[![Codolio](https://img.shields.io/badge/Codolio-View%20Full%20CP%20Profile-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white)](https://codolio.com/profile/kit28ada047)
+[![Codolio](https://img.shields.io/badge/Codolio-View%20Full%20CP%20Profile-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white)](YOUR_CODOLIO_PROFILE_LINK)
 
 </div>
 
@@ -157,9 +157,24 @@ const gokul = {
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/kit28ada047?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10)](https://leetcode.com/u/kit28ada047/)
 
-### 🔵 Codeforces Live Card
+### 🔵 Codeforces & 🟤 CodeChef Live Cards
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Gokul_v)](https://codeforces.com/profile/Gokul_v)
+
+</td>
+<td width="50%" align="center">
+
+[![CodeChef Stats](https://codechef-readme-stats.onrender.com/kit28ada047?v=1)](https://www.codechef.com/users/kit28ada047)
+
+</td>
+</tr>
+</table>
+
+> ℹ️ The CodeChef card runs on a free-tier server that sleeps when idle — first load after a while may take 10-20 seconds to wake up. It updates live once loaded.
 
 ---
 
@@ -226,9 +241,11 @@ const gokul = {
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=kit2824bad047-source&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10)](https://github.com/kit2824bad047-source)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kit2824bad047-source&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10)](https://github.com/kit2824bad047-source)
 
 </div>
+
+---
 
 ## 🎯 What I'm Working On
 
