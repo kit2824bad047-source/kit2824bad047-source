@@ -174,11 +174,11 @@ const gokul = {
 
 <br/><br/>
 
-[![CodeChef Rating Graph](https://codechef-api.vercel.app/handle/kit28ada047/ratingGraph)](https://www.codechef.com/users/kit28ada047)
+*Live rating badge — updates automatically as your CodeChef rating changes*
 
 <br/><br/>
 
-*Live rating badge — updates automatically as your CodeChef rating changes*
+[![View Full Rating Graph on Codolio](https://img.shields.io/badge/View%20Full%20Rating%20Graph-Codolio-6C5CE7?style=flat-square&logo=rocket&logoColor=white)](YOUR_CODOLIO_PROFILE_LINK)
 
 </td>
 </tr>
